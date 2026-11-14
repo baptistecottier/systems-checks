@@ -5,7 +5,7 @@
 
 | Missions | ★ |
 | :-- | --: |
-| `█████` `█    ` `     ` | 12/30 |
+| `█████` `██   ` `     ` | 14/30 |
 
 | # | Mission | ★ | Time |
 | --: | :-- | :-: | --: |
@@ -13,8 +13,9 @@
 | 2 | [chaos in the cargo bay](https://systemscheck.dev/missions/2) | ★★ | 11 ms |
 | 3 | [transmission trouble](https://systemscheck.dev/missions/3) | ★★ | 6 ms |
 | 4 | [ghosts in the cleaning droids](https://systemscheck.dev/missions/4) | ★★ | 1 ms |
-| 5 | [nanofab frustration](https://systemscheck.dev/missions/5) | ★★ | 951 ms |
+| 5 | [nanofab frustration](https://systemscheck.dev/missions/5) | ★★ | 875 ms |
 | 6 | [asteroid alley](https://systemscheck.dev/missions/6) | ★★ | 21 ms |
+| 7 | [power struggle](https://systemscheck.dev/missions/7) | ★★ | 1 ms |
 
 <sub>`█` solved in under 10 s &emsp; `▓` solved in under 5 min &emsp; `░` one part only &emsp; ` ` not solved<br>Python 3.13.14 · Apple M3 · 14 November 2026</sub>
 <!-- scoreboard:end -->
