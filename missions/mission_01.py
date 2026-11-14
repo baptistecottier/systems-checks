@@ -3,9 +3,9 @@ mission #1
 title: critical capacity
 """
 
+import re
 from collections import defaultdict
 from collections.abc import Iterator
-import re
 
 Notes = defaultdict[int, dict[bool, set[int]]]
 
